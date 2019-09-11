@@ -1,5 +1,8 @@
 #!/usr/bin/python3
 from flask import Flask, request, jsonify
+import spotipy
+
+sp = spotipy.Spotify()
 
 app = Flask(__name__)
 
