@@ -12,6 +12,6 @@ public==2019.4.13
 query-string==2019.4.13
 request==2019.4.13
 requests==2.22.0
-spotipy==2.4.4
+spotipy==2.22.1
 urllib3==1.26.5
 Werkzeug==0.15.6
