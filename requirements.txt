@@ -14,4 +14,4 @@ request==2019.4.13
 requests==2.22.0
 spotipy==2.4.4
 urllib3==1.26.5
-Werkzeug==0.15.6
+Werkzeug==2.2.3
